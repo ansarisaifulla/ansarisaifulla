@@ -1,9 +1,9 @@
 ### Hello, I'm Saifulla Ansari 👋
 
-
+- I'm final year computer engineering student at DYPIEMR.
 - 🔭 I’m currently working on virtusa and B.E project.
 - 🌱 I’m currently learning flutter.
-- 👯 I’m looking to collaborate on creditsystemsindia
+-  Self taught Mobile app developer.
 - 💬 Ask me about Android and Flutter.
 - 📫 How to reach me: [Linkedin-](https://www.linkedin.com/in/md-saifullah-ali-ansari-87270b189/)  [Instagram](https://www.instagram.com/saif_ansari_01/)
 - Checkout my personal Portfolio->[here](https://saifulla.dev/)
